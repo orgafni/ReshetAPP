@@ -1,0 +1,6 @@
+[submodule "contrib/ReshetMCA"]
+	path = contrib/ReshetMCA
+	url = ../ReshetMCA.git
+[submodule "contrib/ReshetMSA"]
+	path = contrib/ReshetMSA
+	url = ../ReshetMSA.git
